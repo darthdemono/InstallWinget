@@ -14,7 +14,7 @@ The official Winget installation method via `Repair-WinGetPackageManager`:
 - **Has dependency issues**, requiring manual fixes.
 This script provides a **reliable workaround** borrowed from [UltimateRedist](https://github.com/darthdemono/UltimateRedist).
 
-The original script:
+The original script **(DOESN'T WORK AS OF MARCH 1 2025)**:
 ```ps1
 $progressPreference = 'silentlyContinue'
 Write-Host "Installing WinGet PowerShell module from PSGallery..."
